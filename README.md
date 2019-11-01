@@ -21,7 +21,7 @@ This section covers the training, fine-tunings and results of the ResNet18 model
 This section covers the training, fine-tunings and results of the ResNet50 and ResNet101 models.
 
 ## Part 5 - Saved models
-This is a section with the best achieved results for each model trained.
+This is a section with notes of the best achieved results for each model trained. For quick future reference.
 
 ## Part 6 - Misc.
 This section contains some work that was being done for the Bland & Altman test and some other things.
